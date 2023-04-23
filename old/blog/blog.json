@@ -1,0 +1,16 @@
+{
+	"user": "Agua",
+	"repo": "blog",
+	"url": "https://qingfeng.github.io/blog/",
+	"title": "Aguaの 小站",
+	"menu": [
+		{
+			"name": "文章",
+			"url": "https://qingfeng.github.io/blog/"
+		},
+		{
+			"name": "主页",
+			"url": "https://qingfeng.github.io/home/"
+		}
+	]
+}
